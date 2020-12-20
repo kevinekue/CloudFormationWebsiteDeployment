@@ -1,6 +1,3 @@
-DNS Name:
-
-http://udagr-WebAp-13K1OROAM1PD7-1150783516.us-west-2.elb.amazonaws.com
 
 Project Resources: 
 Udacity AWS DevOps Engineer Nanodegree course material 
