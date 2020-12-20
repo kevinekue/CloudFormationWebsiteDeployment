@@ -1,0 +1,34 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udagram"
+  },
+  {
+    "ParameterKey": "PubSub1",
+    "ParameterValue": "Udagram-PUB1-SN"
+  },
+  {
+    "ParameterKey": "PubSub2",
+    "ParameterValue": "Udagram-PUB2-SN"
+  },
+  {
+    "ParameterKey": "PrivSub1",
+    "ParameterValue": "Udagram-PRIV1-SN"
+  },
+  {
+    "ParameterKey": "PrivSubs",
+    "ParameterValue": "Udagram-PRIV-NETS"
+  },
+  {
+    "ParameterKey": "PrivSub2",
+    "ParameterValue": "Udagram-PRIV1-SN"
+  },
+  {
+    "ParameterKey": "VPCID",
+    "ParameterValue": "Udagram-VPCID"
+  },
+  {
+    "ParameterKey": "ResBucket",
+    "ParameterValue": "arn:aws:s3:::udagram-bucket-kev"
+  }
+]
